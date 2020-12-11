@@ -1,0 +1,13 @@
+urxvt*font: xft:DejaVu Sans Mono:size=13
+
+URxvt*inheritPixmap:            true
+urxvt*transparent: true
+urxvt*shading: 20
+
+urxvt*color12: #87afdf
+urxvt*scrollBar: false
+urxvt*color4: #87afdf
+
+URxvt.iso14755:                   false
+URxvt.keysym.Shift-Control-V:     eval:paste_clipboard
+URxvt.keysym.Shift-Control-C:     eval:selection_to_clipboard
